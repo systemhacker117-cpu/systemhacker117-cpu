@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋, I'm M. Kashan
 
-<!--
-**systemhacker117-cpu/systemhacker117-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology (BS IT) Student
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Software Development and DevOps.
+- 🚀 Working on my Final Year Project: Intelligent CI/CD Failure Analyzer.
+- 🐳 Learning Docker, Jenkins, Git, and GitHub.
+- 📚 Always learning new technologies and improving my skills.
+
+Skills & Technologies
+
+- Git and GitHub
+- Docker
+- Jenkins
+- CI/CD Fundamentals
+- Programming and Problem Solving
+
+Featured Project
+
+Intelligent CI/CD Failure Analyzer
+
+An academic project focused on understanding CI/CD pipeline failures and exploring ways to analyze them.
+
+Goals
+
+- Improve my DevOps skills.
+- Learn automation and deployment workflows.
+- Build useful software projects.
+
+---
+
+Thanks for visiting my profile! 😊
