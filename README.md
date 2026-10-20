@@ -20,7 +20,7 @@ Skills & Technologies
 Featured Project
 
 Intelligent CI/CD Failure Analyzer
-
+[View Project on GitHub](https://github.com/systemhacker117-cpu/Intelligent-CI-CD-Failure-Analyzer)
 An academic project focused on understanding CI/CD pipeline failures and exploring ways to analyze them.
 
 Goals
